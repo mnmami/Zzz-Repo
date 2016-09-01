@@ -1,2 +1,2 @@
 # Zzz-Repo
-Repo for unclassified works (sharing purposed)
+A repo for unclassified work (mostly for sharing purposes)
